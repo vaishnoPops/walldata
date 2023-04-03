@@ -12,5 +12,19 @@
       { "name": "Subarea 2.1" },
       { "name": "Subarea 2.2" }
     ]
+  },
+  {
+    "name": "Wall 3",
+    "subareas": [
+      { "name": "Subarea 3.1" },
+      { "name": "Subarea 3.2" }
+    ]
+  },
+  {
+    "name": "Wall 4",
+    "subareas": [
+      { "name": "Subarea 4.1" },
+      { "name": "Subarea 4.2" }
+    ]
   }
 ]
