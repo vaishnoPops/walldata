@@ -1,0 +1,60 @@
+[
+                {
+                    id: "afde025c-5122-41c0-a6c8-68ba83846f16",
+
+                    name: "Wall 1",
+
+                    adjacentSubAreas:
+                    {
+                        "17100e7b-deab-4a8b-8f0a-9bd3b629a1b2": [
+                            "5203a8da-5fe7-4e80-9483-7708a1fc5172",
+                            "667be37f-4eb2-4e0e-8853-e7755d76be19",
+                        ],
+
+                        "5203a8da-5fe7-4e80-9483-7708a1fc5172": [
+                            "17100e7b-deab-4a8b-8f0a-9bd3b629a1b2",
+                        ],
+
+                        "667be37f-4eb2-4e0e-8853-e7755d76be19": [
+                            "17100e7b-deab-4a8b-8f0a-9bd3b629a1b2",
+                        ],
+                    },
+
+                    subareas: [
+                        "17100e7b-deab-4a8b-8f0a-9bd3b629a1b2",
+
+                        "5203a8da-5fe7-4e80-9483-7708a1fc5172",
+
+                        "667be37f-4eb2-4e0e-8853-e7755d76be19",
+                    ],
+
+                    isOpen: true,
+
+                    sourceEndpoint: "8823cabf-7fb3-4981-ac05-47ebe319428e",
+                },
+                {
+                    id: "b0a07b4b-4237-4a9b-a6d5-0bfefcfdec56",
+
+                    name: "Wall 2",
+
+                    adjacentSubAreas: {
+                        "5203a8da-5fe7-4e80-9483-7708a1fc5172": [
+                            "667be37f-4eb2-4e0e-8853-e7755d76be19",
+                        ],
+
+                        "667be37f-4eb2-4e0e-8853-e7755d76be19": [
+                            "5203a8da-5fe7-4e80-9483-7708a1fc5172",
+                        ],
+                    },
+
+                    subareas: [
+                        "5203a8da-5fe7-4e80-9483-7708a1fc5172",
+
+                        "667be37f-4eb2-4e0e-8853-e7755d76be19",
+                    ],
+
+                    isOpen: true,
+
+                    sourceEndpoint: "28e370c6-5947-45da-8527-27c3d5db3e6e",
+                },
+            ]
